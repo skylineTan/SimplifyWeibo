@@ -1,25 +1,25 @@
-# SimplifyWeibo
-Easier Sina Weibo client
+## SimplifyWeibo
+Easier Sina Weibo Client
 
-开源项目说明
+### 开源项目说明
 
 > **ButterKnife**
 * **Link:** https://github.com/JakeWharton/butterknife
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");                  
 
->BaseRecyclerViewAdapterHelper
+> **BaseRecyclerViewAdapterHelper**
 * **Link:** https://github.com/CymChad/BaseRecyclerViewAdapterHelper
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");                  
 
->T-MVP
+> **T-MVP**
 * **Link:** https://github.com/north2014/T-MVP DropDownMenu
 * **Link:** https://github.com/dongjunkun/DropDownMenu                
 
->SimplifyReader
+> **SimplifyReader**
 * **Link:** https://github.com/SkillCollege/SimplifyReader
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");              
 
->AisenWeiBo
+> **AisenWeiBo**
 * **Link:** https://github.com/wangdan/AisenWeiBo
 * **License:** Licensed under the Apache License, Version 3.0 (the "License");
 
