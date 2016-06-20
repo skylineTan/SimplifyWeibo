@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="white">#FFFFFF</color>
+    //placeholder的颜色
+    <color name="blue_light">#C3D1D2</color>
+    <color name="blue_light_2">#B6C0C9</color>
+    <color name="blue_light_3">#CFC7BC</color>
+    <color name="purple_light">#C1BEC7</color>
+    <color name="grey_light">#E5E5DD</color>
+
+    //分割线的颜色深/浅
+    <color name="divider">#e3e3e8</color>
+    <color name="divider_light">#e0e0e0</color>
+    //背景的浅灰色
+    <color name="grey">#efeff4</color>
+    //字体的颜色由深至浅
+    <color name="grey_dark">#333333</color>
+    <color name="grey_light_1">#666666</color>
+    <color name="grey_light_2">#999999</color>
+    //ripple的颜色
+
+    <color name="base_bg">#ffeeeeee</color>
+    <color name="base_msg_color">#ff999999</color>
+</resources>
