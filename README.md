@@ -4,23 +4,25 @@ Easier Sina Weibo Client
 ### 开源项目说明
 
 > **ButterKnife**
-* **Link:** https://github.com/JakeWharton/butterknife
+* **Link:** [https://github.com/JakeWharton/butterknife](https://github.com/JakeWharton/butterknife)
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");                  
 
 > **BaseRecyclerViewAdapterHelper**
-* **Link:** https://github.com/CymChad/BaseRecyclerViewAdapterHelper
+* **Link:** [https://github.com/CymChad/BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper)
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");                  
 
 > **T-MVP**
-* **Link:** https://github.com/north2014/T-MVP DropDownMenu
-* **Link:** https://github.com/dongjunkun/DropDownMenu                
+* **Link:** [https://github.com/north2014/T-MVP](https://github.com/north2014/T-MVP)               
+
+> **DropDownMenu**
+* **Link:** [https://github.com/dongjunkun/DropDownMenu](https://github.com/dongjunkun/DropDownMenu)                
 
 > **SimplifyReader**
-* **Link:** https://github.com/SkillCollege/SimplifyReader
+* **Link:** [https://github.com/SkillCollege/SimplifyReader](https://github.com/SkillCollege/SimplifyReader)
 * **License:** Licensed under the Apache License, Version 2.0 (the "License");              
 
 > **AisenWeiBo**
-* **Link:** https://github.com/wangdan/AisenWeiBo
+* **Link:** [https://github.com/wangdan/AisenWeiBo](https://github.com/wangdan/AisenWeiBo)
 * **License:** Licensed under the Apache License, Version 3.0 (the "License");
 
 License
