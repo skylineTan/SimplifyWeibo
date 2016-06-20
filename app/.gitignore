@@ -47,4 +47,4 @@ local.properties
 *.ipr
 *~
 *.swp
-main/java/com/tzy/simplifyweibo/support/Constants.java
+Constants.java
